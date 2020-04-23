@@ -21,3 +21,7 @@ can be on any web server or even local
 file jeje
 
 ## How to contribute
+
+###Copyright
+
+2020 Git.Training.
