@@ -22,6 +22,8 @@ file jeje
 
 ## How to contribute
 
+Please fork this repository and then issue pull Request for review
+
 ###Copyright
 
 2020 Git.Training.
